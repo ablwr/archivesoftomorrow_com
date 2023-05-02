@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://localhost:8080/">
+  <title>Archives of Tomorrow blog</title>
+  <subtitle>Archives of Tomorrow: an archives technology company</subtitle>
+  <link href="http://localhost:8080/feed.xml" rel="self" />
+  <link href="http://localhost:8080/" />
+  
+  <updated>2023-05-02T18:37:31Z</updated>
+  <id>http://localhost:8080/</id>
+  <author>
+    <name>Ashley Blewer</name>
+    <email>ashley.blewer@gmail.com</email>
+  </author>
+</feed>

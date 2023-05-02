@@ -1,0 +1,9 @@
+
+/* TEAM */
+Developer: Ashley Blewer
+Contact: ashley.blewer@gmail.com
+Site: https://ashleyblewer.com
+
+
+/* SITE */
+Doctype: HTML5
