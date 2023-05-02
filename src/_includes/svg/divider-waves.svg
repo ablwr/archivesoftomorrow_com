@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="seperator"
+   preserveAspectRatio="none"
+   viewBox="0 0 1440 320"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="divider-waves.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.7375"
+     inkscape:cx="723.38983"
+     inkscape:cy="163.38983"
+     inkscape:window-width="1846"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 0,51.325212 V 103.88347 C 59.135231,92.326795 144.88213,1.9577859 179.00212,28.828602 343.94646,179.52861 404.01851,0.78140159 467.47882,29.59089 661.41569,192.04988 785.2663,-6.8754831 851.39407,29.78369 1093.2011,198.32295 1064.6494,-25.59322 1170.5276,31.527755 1343.8263,142.99388 1343.9451,59.544561 1440,32.852971 V 160 0 h -16 -80 -96 -96 -96 H 960 864 768 672 576 480 384 288 192 96 16 0 Z"
+     id="path2"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccc" />
+</svg>

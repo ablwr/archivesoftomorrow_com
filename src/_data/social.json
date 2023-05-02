@@ -1,0 +1,11 @@
+[{
+        "platform": "github",
+        "url": "https://github.com/ablwr/archivesoftomorrow_com",
+        "icon": "github.svg"
+    },
+    {
+        "platform": "rss",
+        "url": "/feed.xml",
+        "icon": "rss.svg"
+    }
+]

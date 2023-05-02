@@ -1,0 +1,34 @@
+---
+layout: base
+---
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region">
+      <h1 class="text-center">{{ title }}</h1>
+    </div>
+  </div>
+  {% include 'svg/divider-waves.svg' %}
+</header>
+<article class="region page">
+  <div class="wrapper flow prose">
+    {{ content | safe }}
+    <section>
+        <img alt="ashley blewer" src="/assets/images/ashley-profile.jpg">
+        <strong><a href="https://ashleyblewer.com">Ashley Blewer</a></strong>
+        <p>Ashley (she/her) is an archivist, educator, and software engineer. Ashley is also the Managing Director at <a href="https://formattingpress.com">Formatting Press</a>. She is an active contributor to many open source software and resources for audiovisual preservation. You can find her on <a rel="me" href="https://digipres.club/@ashley">Mastodon</a>.</p>
+    </section>
+
+    <section>
+        <img alt="rory sawyer" src="/assets/images/rory-profile.jpg">
+        <strong><a href="https://sawyer.dev">Rory Sawyer</a></strong>
+        <p>Rory is a pragmatic and empathetic software engineer who loves making technology and data accessible to all. Over the eight years of his career he has had the opportunity to work on large-scale data pipelines, REST APIs, and developer tooling. Throughout this time he has been involved in the full software development lifecycle, including all the bits of maintenance work that come with it, such as writing documentation, setting up CI/CD pipelines, testing, maintenance, and on-call rotations.</p>
+    </section>
+
+    <section class="grid">
+        {# <div>Verlaine</div>
+        <div>The Bear</div>
+        <div>Sprite</div> #}
+    </section>
+
+  </div>
+</article>
