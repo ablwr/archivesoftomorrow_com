@@ -107,6 +107,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
 
   // 	--------------------- Passthrough File Copy -----------------------
+  // top-level CNAME
+  eleventyConfig.addPassthroughCopy('src/CNAME');
   // same path
   ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
     eleventyConfig.addPassthroughCopy(path)
