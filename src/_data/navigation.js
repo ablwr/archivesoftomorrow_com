@@ -11,6 +11,10 @@ module.exports = {
     {
       text: 'Services',
       url: '/services/'
+    },
+    {
+      text: 'Contact',
+      url: '/contact/'
     }
   ],
   bottom: []
