@@ -1,7 +1,7 @@
 {
   "name": "Archives of Tomorrow - Archives of Tomorrow: an archives technology company",
   "short_name": "Archives of Tomorrow",
-  "start_url": "http://localhost:8080",
+  "start_url": "https://archivesoftomorrow.com",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

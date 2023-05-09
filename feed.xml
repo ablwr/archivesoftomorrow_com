@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://localhost:8080/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://archivesoftomorrow.com/">
   <title>Archives of Tomorrow blog</title>
   <subtitle>Archives of Tomorrow: an archives technology company</subtitle>
-  <link href="http://localhost:8080/feed.xml" rel="self" />
-  <link href="http://localhost:8080/" />
+  <link href="https://archivesoftomorrow.com/feed.xml" rel="self" />
+  <link href="https://archivesoftomorrow.com/" />
   
-  <updated>2023-05-08T15:02:13Z</updated>
-  <id>http://localhost:8080/</id>
+  <updated>2023-05-09T12:39:23Z</updated>
+  <id>https://archivesoftomorrow.com/</id>
   <author>
     <name>Ashley Blewer</name>
     <email>ashley.blewer@gmail.com</email>
