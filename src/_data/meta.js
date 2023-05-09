@@ -1,5 +1,5 @@
 module.exports = {
-  url: process.env.URL || 'http://localhost:8080',
+  url: process.env.URL || 'https://archivesoftomorrow.com',
   siteName: 'Archives of Tomorrow',
   siteDescription: 'Archives of Tomorrow: an archives technology company',
   siteType: 'Person', // schema
