@@ -4,12 +4,12 @@
     "items": [{
             "name": "Display",
             "description": "System fonts for body copy and globally set text.",
-            "value": ["monospace", "Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+            "value": ["Conduit ITC", "monospace", "Redhat", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
         },
         {
             "name": "Base",
             "description": "System fonts for body copy and globally set text.",
-            "value": ["monospace", "Inter", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
+            "value": ["Conduit ITC", "monospace", "Inter", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif"]
         },
         {
             "name": "Mono",
