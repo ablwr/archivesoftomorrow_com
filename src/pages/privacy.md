@@ -4,35 +4,54 @@ seo:
   title: Privacy Policy
 permalink: /privacy/index.html
 eleventyExcludeFromCollections: true
-excludeFromSitemap: true
-description: I respect the EU General Data Protection Regulation (GDPR). This policy document explains how I collect and handle any information you provide to me.
+excludeFromSitemap: false
+description: Privacy Policy and data collection for Archives of Tomorrow.
 layout: page
 ---
 
-I respect the EU General Data Protection Regulation (GDPR) and this policy document explains how I collect and handle any information you provide to me.
+## Privacy Policy
 
-**What background data is collected?**
-This site does not use any third party tracking scripts.
+Archives of Tomorrow LLC ("we" or "us") operates the Archives of Tomorrow website, which provides consulting and technical services.
 
-**How do I use the data you provide?**
-This website does not collect any data.
+This page defines if and how this website collects, uses, and protects your Personal Information -- information that identifies you or could be used to identify you.
 
-**How secure is your data?**
-Very secure, as this website does not collect any information.
+Archives of Tomorrow LLC is the data controller for any information collected by this site.
 
-**How secure is this website?**
+## Service Providers
+
+We may employ third-party companies and individuals to facilitate communication.
+
+
+We want to inform our website users that these third parties have access to your Personal Information if you have chosen to provide that information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+
+## Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+## Links to Other Sites
+
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## Security
+
 This website transmits itself using HTTPS, encrypting all data between the browser and the server. Your network provider can still see that you are downloading assets from this site, but not its content. This also protects you from third parties intercepting data, for example, while browsing on public WiFi, or from network providers injecting advertisements on this site. All relevant response HTTP headers are set for your protection and the Content Security Policy is adjusted to this websites requirements.
 
-**Data controller**
-{{ meta.address.firma }}
-{{ meta.address.zip }}, {{ meta.address.city }}
+## Children's Privacy
 
-Mail: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
+Our Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
-If you have any questions or doubts, please contact me: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
+## Changes to This Privacy Policy
 
-**Changes to the policy**
-If I change the content of this policy, those changes will be effective at the time I post them here.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-**Complaints**
-If you have any reason to complain about the way I handle your privacy, please contact me by email: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>.
+## Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us by email: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>.
+
+## Effective Date
+2023 June 02
+
+## Description of update
+Initial publication.
+
