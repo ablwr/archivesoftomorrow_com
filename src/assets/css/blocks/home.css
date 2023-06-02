@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+.home nav {
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    grid-template-columns: 1fr 1fr;
+}
+
+.home nav svg:nth-child(odd) {
+    text-align: left;
+}
+
+.home nav div {
+    display: grid;
+    place-items: center;
+    justify-self: center;
+}
+
+.home img {
+    max-width: 8rem;
+}
