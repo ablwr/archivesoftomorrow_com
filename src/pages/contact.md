@@ -5,6 +5,8 @@ description: Contact
 layout: page
 ---
 
+Sign up for our <a href="https://eepurl.com/h5MFNn">mailing list</a>.
+
 Contact us at info@archivesoftomorrow.com or use the form below:
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
