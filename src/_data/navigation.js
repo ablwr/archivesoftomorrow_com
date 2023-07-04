@@ -25,7 +25,7 @@ module.exports = {
     {
       text: 'Mailing list',
       url: 'https://eepurl.com/h5MFNn'
-    }
+    },
     {
       text: 'Privacy Policy',
       url: '/privacy/'
