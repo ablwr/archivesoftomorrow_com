@@ -6,7 +6,7 @@ module.exports = {
     },
     {
       text: 'Books',
-      url: '/books/'
+      url: 'https://mediaguides.archivesoftomorrow.com/'
     },
     {
       text: 'Services',
