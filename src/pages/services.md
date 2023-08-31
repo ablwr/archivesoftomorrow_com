@@ -55,7 +55,7 @@ When you don’t know which stage you’re at
 
 **Wayfinding** is our way to help you figure out how to not be overwhelmed. If you don’t know where your problem fits (or even what your problem is), this is a great place to start. The outcome includes an overarching assessment of your problem domain and potential paths forward.
 
-Learn more about our [Wayfinding Strategy Workshop](/services/wayfinding/) service.
+Learn more about our [Wayfinding Strategy Workshop](/services/wayfinding) service.
 
 ---
 
